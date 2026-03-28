@@ -20,7 +20,7 @@
 
     <div class="space-y-1">
       <div class="flex items-center justify-between">
-        <span class="text-xs text-[#C2614F] font-medium">{{ recipe.category }}</span>
+        <span class="text-xs text-[#C2614F] font-medium">{{ recipe.category.join(' · ') }}</span>
         <span class="text-xs text-stone-400 dark:text-stone-500">{{ recipe.prepTime }} + {{ recipe.cookTime }}</span>
       </div>
       <h3 class="font-serif font-semibold text-base group-hover:text-[#C2614F] transition-colors">
