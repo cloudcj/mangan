@@ -2,7 +2,7 @@
   "slug": "sinigang",
   "title": "Sinigang na Baboy",
   "description": "A sour tamarind-based pork soup loaded with vegetables. A true Filipino comfort dish.",
-  "category": "Classic",
+  "category": ["Classic"],
   "tags": ["Filipino", "Pork", "Soup"],
   "prepTime": "15 mins",
   "cookTime": "1 hr",
