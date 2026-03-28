@@ -1,0 +1,39 @@
+{
+  "slug": "sinigang",
+  "title": "Sinigang na Baboy",
+  "description": "A sour tamarind-based pork soup loaded with vegetables. A true Filipino comfort dish.",
+  "category": "Classic",
+  "tags": ["Filipino", "Pork", "Soup"],
+  "prepTime": "15 mins",
+  "cookTime": "1 hr",
+  "servings": 6,
+  "servingSize": "350g",
+  "difficulty": "Easy",
+  "image": "/mangan/images/sinigang-na-manok.jpg",
+  "ingredients": [
+    "1 kg pork belly or ribs, cut into pieces",
+    "1 pack sinigang mix (or 3 pcs tamarind)",
+    "1 medium onion, quartered",
+    "2 tomatoes, quartered",
+    "1 radish, sliced",
+    "1 bundle kangkong (water spinach)",
+    "2 pcs long green chili",
+    "2 tbsp fish sauce",
+    "1.5 liters water",
+    "Salt to taste"
+  ],
+  "instructions": [
+    "Boil water in a pot. Add pork, onion, and tomatoes. Simmer for 45 minutes until pork is tender.",
+    "Add sinigang mix and stir. Adjust sourness to taste.",
+    "Add radish and green chili. Cook for 5 minutes.",
+    "Season with fish sauce and salt.",
+    "Add kangkong last, cook for 1 minute. Serve hot with rice."
+  ],
+  "macros": {
+    "calories": 410,
+    "protein": 28,
+    "carbs": 8,
+    "fat": 30
+  },
+  "featured": false
+}

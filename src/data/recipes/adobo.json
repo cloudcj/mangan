@@ -1,0 +1,36 @@
+{
+  "slug": "adobo",
+  "title": "Chicken Adobo",
+  "description": "A classic Filipino braised chicken in vinegar, soy sauce, and garlic. Simple, savory, and deeply comforting.",
+  "category": ["Protein Meals","Classic"],
+  "tags": ["Filipino", "Chicken", "High Protein"],
+  "prepTime": "10 mins",
+  "cookTime": "40 mins",
+  "servings": 4,
+  "servingSize": "250g",
+  "difficulty": "Easy",
+  "image": "/mangan/images/adobo.jpg",
+  "ingredients": [
+    "1 kg chicken, cut into pieces",
+    "½ cup soy sauce",
+    "½ cup white vinegar",
+    "1 head garlic, crushed",
+    "2 bay leaves",
+    "1 tsp whole black peppercorns",
+    "1 tbsp oil"
+  ],
+  "instructions": [
+    "Combine chicken, soy sauce, vinegar, garlic, bay leaves, and peppercorns in a pot. Marinate for 30 minutes.",
+    "Heat oil in a pan over medium heat. Sear the chicken pieces until lightly browned. Set aside.",
+    "Pour the marinade into the pan and bring to a boil.",
+    "Return the chicken to the pan. Lower heat and simmer uncovered for 30 minutes.",
+    "Continue cooking until the sauce reduces and coats the chicken. Serve with steamed rice."
+  ],
+  "macros": {
+    "calories": 320,
+    "protein": 38,
+    "carbs": 4,
+    "fat": 16
+  },
+  "featured": true
+}
