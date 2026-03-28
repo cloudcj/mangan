@@ -56,6 +56,6 @@ import RecipeCard from '@/components/RecipeCard.vue'
 const selected = ref<string | null>(null)
 
 const filtered = computed(() =>
-  selected.value ? recipes.filter(r => r.category === selected.value) : recipes
+  selected.value ? recipes.filter(r => r.category.includes(selected.value as string)) : recipes
 )
 </script>
