@@ -21,7 +21,7 @@ export interface Recipe {
   image: string
   ingredients: string[]
   instructions: string[]
-  macros: Macros
+  macros?: Macros
   featured: boolean
 }
 
